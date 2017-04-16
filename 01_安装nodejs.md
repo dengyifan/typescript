@@ -31,3 +31,5 @@ source /etc/profile
 ```
 npm install -g typescript
 ```
+
+### 其他终端需要重启后才生效
